@@ -44,7 +44,7 @@ module.exports = {
 🔸 ${minutes} minute(s)  
 🔸 ${seconds} second(s)  
 
-⏱ *Total:* **${uptime}**
+⏱ *Total:* *${uptime}*
 
 ━━━━━━━━━━━━━━━━━━━━━━
 🤖 *Bot Name:* ${global.config.botName || "Nayan Bot"}
