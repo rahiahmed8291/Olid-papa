@@ -16,9 +16,9 @@ module.exports = {
 
     const vcard = 'BEGIN:VCARD\n'
             + 'VERSION:3.0\n' 
-            + 'FN:Mohammad Nayan\n'
-            + 'ORG:Nayan;\n'
-            + 'TEL;type=CELL;type=VOICE;waid=8801615298449:01615298449\n'
+            + 'FN:Mohammad Rahi\n'
+            + 'ORG:Rahi;\n'
+            + 'TEL;type=CELL;type=VOICE;waid=8801711209381:01711209381\n'
             + 'END:VCARD';
 
     const sentMsg = await api.sendMessage(
