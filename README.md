@@ -1,11 +1,11 @@
-# 🤖 Nayan Bot
+# 🤖 𝐑𝐀𝐇𝐈 𝐏𝐎𝐖𝐄𝐑 𝐁𝐎𝐓
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff3c00,100:00ffe7&height=250&section=header&text=NAYAN%20WHATSAPP%20BOT&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff3c00,100:00ffe7&height=250&section=header&text=𝐑𝐀𝐇𝐈%20𝐏𝐎𝐖𝐄𝐑%20𝐁𝐎𝐓&fontSize=45&fontColor=ffffff&aanimationfadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=500&lines=welcome+To+NAYAN-WHATSAPP-BOT;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=500&lines=welcome+To+𝐑𝐀𝐇𝐈–𝐏𝐎𝐖𝐄𝐑_𝐁𝐎𝐓;" />
 </p>
 
 
